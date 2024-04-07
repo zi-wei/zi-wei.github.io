@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ziwei.github.io.git/sitemap.xml
